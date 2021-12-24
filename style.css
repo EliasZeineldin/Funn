@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+#para1{
+    border:solid;
+    border-color: black;
+    font-size: 40px;
+}
+#para2{
+   
+   font-size: 35px; 
+}
+#hr1{
+    color: red
+}
+#hr2{
+    color: blue
+}
+#hr3{
+    color:chocolate
+}
+#hr4{
+    color:cyan
+}
+#para3{
+   font-family: Verdana; 
+   font-size: 35px;
+}
+#img1{
+    width: 400px;
+    border: solid;
+    border-radius: 80px;
+    margin: 30px;
+    padding: 25px;
+}
+#img2{
+    width: 400px;
+    border: solid;
+    border-radius: 80px;
+    margin: 30px;
+    padding: 25px;
+}
+#para45{
+    text-align: left;
+}
+#para746{
+    border: solid;
+    border-color: crimson;
+    margin-top: 30px;
+    font-size: 35px;
+}
+a{
+    margin-top: 30px;
+}
